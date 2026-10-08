@@ -1,0 +1,113 @@
+{
+    "title": "The Future of Cloud Computing: Six Advantages and Types",
+    "slides": [
+        {
+            "title": "Introduction",
+            "summary": "Cloud computing is the on-demand delivery of IT resources.",
+            "content": "In a cloud environment, new resources are accessed quickly. Focus on business needs instead of infrastructure.\n\nKey benefits: Speed, agility, scalability, cost savings, and dedicated resources for specific tasks.",
+            "bullets": [
+                "Focus on business needs",
+                "Quick resource access",
+                "Scalability without infrastructure changes",
+                "Cost-effective with budget flexibility"
+            ],
+            "example": "Real-world implementation of Introduction",
+            "takeaway": "Cloud computing simplifies IT management and enhances productivity.",
+            "need_image": true,
+            "image_keyword": "cloud-computing-advantages",
+            "image_path": "output/images\\slide_1.jpg"
+        },
+        {
+            "title": "Types of Cloud Computing",
+            "summary": "Three main types: Public, Private, and Hybrid cloud.",
+            "content": "Public clouds are shared resources accessible to anyone. Private clouds are dedicated for a single organization. Hybrid combines both public and private clouds.\n\nKey benefits: Flexibility, security, and integration with existing infrastructure.",
+            "bullets": [
+                "Public Clouds",
+                "Private Clouds",
+                "Hybrid Clouds"
+            ],
+            "example": "Real-world implementation of Types of Cloud Computing",
+            "takeaway": "Choose the right type based on your needs for flexibility and security.",
+            "need_image": true,
+            "image_keyword": "cloud-computing-types",
+            "image_path": "output/images\\slide_2.jpg"
+        },
+        {
+            "title": "AWS Services Overview",
+            "summary": "Amazon Web Services (AWS) offers a wide range of cloud computing services.",
+            "content": "AWS provides compute, storage, databases, and applications. It's popular for its scalability and cost-effectiveness.\n\nKey benefits: Scalability, flexibility, and integration with other AWS services.",
+            "bullets": [
+                "Compute",
+                "Storage",
+                "Databases",
+                "Applications"
+            ],
+            "example": "Real-world implementation of AWS Services Overview",
+            "takeaway": "AWS is a comprehensive solution for cloud computing needs.",
+            "need_image": true,
+            "image_keyword": "aws-services-overview",
+            "image_path": "output/images\\slide_3.jpg"
+        },
+        {
+            "title": "Benefits of Cloud Computing",
+            "summary": "Cloud computing offers speed, agility, cost savings, and dedicated resources.",
+            "content": "In a cloud environment, new IT resources are accessed quickly. Focus on business needs instead of infrastructure.\n\nKey benefits: Speed, agility, scalability, cost savings, and dedicated resources for specific tasks.",
+            "bullets": [
+                "Speed",
+                "Agility",
+                "Scalability",
+                "Cost Savings"
+            ],
+            "example": "Real-world implementation of Benefits of Cloud Computing",
+            "takeaway": "Cloud computing enhances productivity by simplifying IT management.",
+            "need_image": true,
+            "image_keyword": "cloud-computing-benefits",
+            "image_path": "output/images\\slide_4.jpg"
+        },
+        {
+            "title": "Types of Cloud Computing Services",
+            "summary": "Three main types: Public, Private, and Hybrid cloud services.",
+            "content": "Public clouds are shared resources accessible to anyone. Private clouds are dedicated for a single organization. Hybrid combines both public and private clouds.\n\nKey benefits: Flexibility, security, and integration with existing infrastructure.",
+            "bullets": [
+                "Public Clouds",
+                "Private Clouds",
+                "Hybrid Clouds"
+            ],
+            "example": "Real-world implementation of Types of Cloud Computing Services",
+            "takeaway": "Choose the right type based on your needs for flexibility and security.",
+            "need_image": true,
+            "image_keyword": "cloud-computing-types-services",
+            "image_path": "output/images\\slide_5.jpg"
+        },
+        {
+            "title": "Real World Examples",
+            "summary": "Cloud computing is used in various industries, including healthcare, finance, and education.",
+            "content": "In the healthcare industry, cloud computing helps manage patient data securely. In finance, it streamlines transactions and reduces costs.\n\nKey benefits: Enhanced security, improved efficiency, and better collaboration.",
+            "bullets": [
+                "Healthcare",
+                "Finance",
+                "Education"
+            ],
+            "example": "Real-world implementation of Real World Examples",
+            "takeaway": "Cloud computing is widely adopted across various industries for enhanced security and efficiency.",
+            "need_image": true,
+            "image_keyword": "cloud-computing-real-world-examples",
+            "image_path": "output/images\\slide_6.jpg"
+        },
+        {
+            "title": "Future Trends",
+            "summary": "The future of cloud computing includes AI, IoT, and edge computing.",
+            "content": "AI is transforming the way we use cloud computing. IoT connects devices to the internet for better data management.\n\nKey benefits: Enhanced collaboration, improved decision-making, and enhanced security.",
+            "bullets": [
+                "AI",
+                "IoT",
+                "Edge Computing"
+            ],
+            "example": "Real-world implementation of Future Trends",
+            "takeaway": "The future of cloud computing is driven by AI, IoT, and edge computing for better collaboration and decision-making.",
+            "need_image": true,
+            "image_keyword": "cloud-computing-future-trends",
+            "image_path": "output/images\\slide_7.jpg"
+        }
+    ]
+}
